@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center"> hi 👋, I'm Manak Jain </h1>
+# 💫 About Me:
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manak+Jain!;" />
+</h1>
 
-<!--
-**Moli310/Moli310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me:
+<img align="right" width = "300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Machine Learning/Tensorflow<br><br>🌱 I’m currently studying AI and Data Science at Pune University<br><br>👯 I’m looking to collaborate on Data Science/ML projects<br><br>💬 Ask me about Python, Streamlit, OpenCV<br><br><br>
+@@ -13,7 +16,10 @@
+![](https://github-readme-streak-stats.herokuapp.com/?user=Man-ak&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Man-ak&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
