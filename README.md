@@ -7,7 +7,7 @@
 ## 💫 About Me:
 <img align="right" width = "300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-🔭 I’m currently working on Machine Learning/Tensorflow<br><br>🌱 I’m currently studying AI and Data Science at Pune University<br><br>👯 I’m looking to collaborate on Data Science/ML projects<br><br>💬 Ask me about Python, Streamlit, OpenCV<br><br><br>
+🔭 I’m currently working on Machine Learning and Data Analytics <br><br>🌱 I’m currently studying  Analytics at Northeastern University<br><br>👯 I’m looking to collaborate on Data Science/ML projects<br><br>💬 Ask me about Python,  OpenCV<br><br><br>
 @@ -13,7 +16,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Man-ak&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Man-ak&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
