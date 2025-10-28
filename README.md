@@ -18,7 +18,6 @@
 ## 🚀 Featured Projects
 
 ### **WizardVerse AI**
-<img align="right" width="300" src="https://media.giphy.com/media/fqK2EN2qu0vsA/giphy.gif" />
 - 🔍 Compare **Harry Potter books vs movies** using NLP, sentiment analysis & Streamlit  
 - 📊 Visualize differences in dialogue, characters, and events  
 - 🔗 [Live Demo](#) | [GitHub Repo](https://github.com/Moli310/Wizardverse-)  
@@ -26,7 +25,6 @@
 ---
 
 ### **Real-time Delivery Optimization**
-<img align="right" width="300" src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" />
 - 📦 Optimizes delivery routes & inventory with **Spark + Kafka + Tableau**  
 - ⚡ Reduces time and operational cost  
 - 🔗 [Repo Link]()  
@@ -34,7 +32,6 @@
 ---
 
 ### **Blood Donation Management**
-<img align="right" width="300" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" />
 - ❤️ Manages **blood donors, recipients, and donation events** efficiently  
 - 📊 Tracks availability & improves matching with **data analytics**  
 - 🔗 [Repo Link](https://github.com/Moli310/Blod Donation management system)  
@@ -42,7 +39,6 @@
 ---
 
 ### **TalkTrack**
-<img align="right" width="300" src="https://media.giphy.com/media/xT5LMQdb8cK2yz8lY8/giphy.gif" />
 - 🗣️ AI-based **speech analytics tool** for meetings & conversations  
 - 📈 Extracts insights, action items, and summaries automatically  
 - 🔗 [Repo Link](https://github.com/Moli310/Talktrack)  
