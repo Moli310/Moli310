@@ -9,8 +9,8 @@
 
 - 🔭 Currently working on **Machine Learning & Data Analytics projects**  
 - 🌱 Pursuing **Analytics at Northeastern University**  
-- 👯 Looking to collaborate on **AI, NLP, and ML projects**  
-- 💬 Ask me about **Python, OpenCV, Streamlit, NLP**  
+- 👯 Looking to collaborate on **AI, NLP, and ML ,Data science projects**  
+- 💬 Ask me about **Python, Streamlit, NLP,python ,SQL**  
 - ⚡ Fun fact: I enjoy making **interactive dashboards & AI demos**
 
 ---
@@ -25,19 +25,27 @@
 
 ---
 
-### **AI-powered Resume Screener**
-<img align="right" width="300" src="https://media.giphy.com/media/3o7aCVVv7Wf7VRM0f2/giphy.gif" />
-- 🤖 Uses **LLMs + Streamlit** to rank resumes automatically  
-- 📈 Helps HR save time and identify top candidates  
-- 🔗 [Repo Link](#)  
-
----
-
 ### **Real-time Delivery Optimization**
 <img align="right" width="300" src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" />
 - 📦 Optimizes delivery routes & inventory with **Spark + Kafka + Tableau**  
 - ⚡ Reduces time and operational cost  
-- 🔗 [Repo Link](#)  
+- 🔗 [Repo Link]()  
+
+---
+
+### **Blood Donation Management**
+<img align="right" width="300" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" />
+- ❤️ Manages **blood donors, recipients, and donation events** efficiently  
+- 📊 Tracks availability & improves matching with **data analytics**  
+- 🔗 [Repo Link](https://github.com/Moli310/Blod Donation management system)  
+
+---
+
+### **TalkTrack**
+<img align="right" width="300" src="https://media.giphy.com/media/xT5LMQdb8cK2yz8lY8/giphy.gif" />
+- 🗣️ AI-based **speech analytics tool** for meetings & conversations  
+- 📈 Extracts insights, action items, and summaries automatically  
+- 🔗 [Repo Link](https://github.com/Moli310/Talktrack)  
 
 ---
 
@@ -56,9 +64,10 @@
 ---
 
 ## 🎯 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moli-jangada)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moli-jangada/)  
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+collab+on+AI+projects!" />
 </h3>
+
