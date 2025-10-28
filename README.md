@@ -20,21 +20,21 @@
 ### **WizardVerse AI**
 - 🔍 Compare **Harry Potter books vs movies** using NLP, sentiment analysis & Streamlit  
 - 📊 Visualize differences in dialogue, characters, and events  
-- 🔗 [Live Demo](#) | [GitHub Repo](https://github.com/Moli310/Wizardverse-)  
+- 🔗 [Repo Link](https://github.com/Moli310/Wizardverse-)  
 
 ---
 
 ### **Real-time Delivery Optimization**
 - 📦 Optimizes delivery routes & inventory with **Spark + Kafka + Tableau**  
 - ⚡ Reduces time and operational cost  
-- 🔗 [Repo Link]()  
+- 🔗 [Repo Link](https://github.com/Moli310/Industrial-Mining-Optimization)  
 
 ---
 
 ### **Blood Donation Management**
 - ❤️ Manages **blood donors, recipients, and donation events** efficiently  
 - 📊 Tracks availability & improves matching with **data analytics**  
-- 🔗 [Repo Link](https://github.com/Moli310/Blod Donation management system)  
+- 🔗 [Repo Link](https://github.com/Moli310/Blood-Donation-Management-system)  
 
 ---
 
