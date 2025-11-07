@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581090700227-0eec5e2c6a29?fit=crop&w=1200&q=80" width="100%" alt="Data & AI Banner"/>
+  <img src="https://github.com/Moli310/Moli310/blob/main/data-analyst.jpg"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Moli Jangada</h1>
